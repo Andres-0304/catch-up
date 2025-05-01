@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "title": "Catchup News"
+  },
+  "sources": {
+    "title": "Fuentes de Noticias"
+  },
+  "articles": {
+    "title": "Titulares Principales"
+  },
+  "article": {
+    "read-more": "Leer más"
+  }
+}
